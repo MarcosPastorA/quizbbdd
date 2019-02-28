@@ -315,8 +315,8 @@ exports.playCmd = (rl) => {
  */
 exports.creditsCmd = rl => {
     log('Autores de la practica:');
-    log('victordepablo', 'green');
-    log('marioesperalta', 'green');
+    log('MarcosPastor', 'green');
+    log('MarcosPastor2', 'green');
     rl.prompt();
 };
 

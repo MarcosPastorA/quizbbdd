@@ -1,4 +1,4 @@
-const figlet = require('figlet');
+ const figlet = require('figlet');
 const chalk = require('chalk');
 
 

@@ -1,4 +1,4 @@
-
+ 
 const readline = require('readline');
 const model = require('./model');
 
